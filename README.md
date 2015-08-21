@@ -8,3 +8,7 @@
 * Step Down 12V To 3.7V 3A 11W DC/DC Buck Converter Car Power Supply Module: US $2.85
 * Breadboard cca: $2.43
 
+## Notes
+
+SIM900A must be flashed with SIM900 firmware in order to operate in Europe.
+
