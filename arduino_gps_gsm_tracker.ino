@@ -1,4 +1,4 @@
-// after mobile adapter (re)start (HW or SW):
+;// after mobile adapter (re)start (HW or SW):
 // <"garbage">
 // RDY                    
 //                                     
@@ -20,7 +20,7 @@ TinyGPSPlus gps;
 const char * receivedSmsPrefix = "+CMT: \"+421908363848\"";
 
 const int resetPin = 6;
-const int activityIndicationPin = 3;
+const int activityIndicationPin = 7;
 const int gpsStatusIndicationPin = 13;
 
 const char * initCommands[] = {
@@ -105,7 +105,7 @@ void loop() {
 
   digitalWrite(activityIndicationPin, state == ST_IDLE ? LOW : HIGH);
  
-  if (state == ST_BOOTING && now - resetStartTime > 100) {
+  if (state == ST_BOOTING && now - resetStartTime > 500) {
     digitalWrite(resetPin, HIGH);
   }
   
@@ -116,7 +116,7 @@ void loop() {
     } else if (smsText[0]) {
       altSerial.println("AT+CMGS=\"+421908363848\""); // begin sending SMS to the MS
       state = ST_SMS_WAIT_FOR_PROMPT;
-    } else if (now - maLastCheckingTime > 60000) { // one minute after last check
+    } else if (now - maLastCheckingTime > 30000) { // one minute after last check
       maLastCheckingTime = now;
       altSerial.println("AT+CPAS"); // query mobile adapter state
       maCheckingState = MACS_IN_PROGRESS;
@@ -169,7 +169,7 @@ void loop() {
               initCommand++;
             }
             maCheckingState = maCheckingState == MACS_IN_PROGRESS ? MACS_ERROR : MACS_IDLE;
-          } else if (maCheckingState != ST_IDLE && (!strcmp(line, "+CPAS: 0") || !strcmp(line, "+CPAS: 3"))) { // mobile adapter ready
+          } else if (maCheckingState != MACS_IDLE && (!strcmp(line, "+CPAS: 0") || !strcmp(line, "+CPAS: 3"))) { // mobile adapter ready
             maCheckingState = MACS_OK;
           }
           break;
