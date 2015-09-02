@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.2" x="0in" y="0in" width="63" height="73" viewBox="0 0 50.4 58.400004" id="svg106744" inkscape:version="0.91 r13725" sodipodi:docname="SKM53_breadboard.svg">
+  <metadata id="metadata108034">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs108032" />
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1887" inkscape:window-height="1058" id="namedview108030" showgrid="false" inkscape:zoom="8.0680884" inkscape:cx="32.885591" inkscape:cy="9.2283579" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg106744" units="px" />
+  <path style="opacity:0.98999999;fill:#1f7a34;fill-opacity:1" inkscape:connector-curvature="0" id="path106750" d="M 50.4,58.400003 L 50.4,5.7465823e-6 l -50.4,0 L 0,58.400003 l 50.4,0 m -41.76,-3.6 c 0,0.795 -0.646,1.438 -1.44,1.438 c -0.794,0 -1.44,-0.645 -1.44,-1.438 c 0,-0.793 0.646,-1.44 1.44,-1.44 c 0.794,0 1.44,0.645 1.44,1.44 z m 7.2,0 c 0,0.795 -0.645,1.438 -1.438,1.438 c -0.796,0 -1.44,-0.645 -1.44,-1.438 c 0,-0.793 0.642,-1.44 1.438,-1.44 c 0.795,0 1.44,0.645 1.44,1.44 z m 7.2,0 c 0,0.795 -0.645,1.438 -1.438,1.438 c -0.797,0 -1.44,-0.645 -1.44,-1.438 c 0,-0.793 0.645,-1.44 1.44,-1.44 c 0.793,0 1.438,0.645 1.438,1.44 z m 7.2,0 c 0,0.795 -0.646,1.438 -1.44,1.438 c -0.794,0 -1.438,-0.645 -1.438,-1.438 c 0,-0.793 0.643,-1.44 1.438,-1.44 c 0.796,0 1.44,0.645 1.44,1.44 z m 7.2,0 c 0,0.795 -0.646,1.438 -1.44,1.438 c -0.794,0 -1.438,-0.645 -1.438,-1.438 c 0,-0.793 0.643,-1.44 1.438,-1.44 c 0.796,0 1.44,0.645 1.44,1.44 z m 7.2,0 c 0,0.795 -0.646,1.438 -1.44,1.438 c -0.794,0 -1.44,-0.643 -1.44,-1.438 c 0,-0.795 0.645,-1.44 1.44,-1.44 c 0.795,0 1.44,0.645 1.44,1.44 z" sodipodi:nodetypes="cccccssssssssssssssssssssssssssssss" />
+  <g id="g107242" transform="translate(0,-35.199997)">
+    <title id="title107244">text:Released under the Creative Commons Attribution Share-Alike 3.0 License</title>
+  </g>
+  <g id="g107246" transform="translate(0,-35.199997)">
+    <title id="title107248">text:http://creativecommons.org/licenses/by-sa/3.0</title>
+  </g>
+  <g id="g107250" transform="translate(0,-35.199997)">
+    <title id="title107252">element:JP1</title>
+    <g id="g107254">
+      <title id="title107256">package:1X06</title>
+    </g>
+  </g>
+  <g id="g107258" transform="translate(0,-35.199997)">
+    <title id="title107260">element:JP2</title>
+    <g id="g107262">
+      <title id="title107264">package:1X02</title>
+    </g>
+  </g>
+  <g id="g107266" transform="translate(0,-35.199997)">
+    <title id="title107268">element:JP3</title>
+    <g id="g107270">
+      <title id="title107272">package:1X01</title>
+    </g>
+  </g>
+  <g id="g107274" transform="translate(0,-35.199997)">
+    <title id="title107276">element:JP4</title>
+    <g id="g107278">
+      <title id="title107280">package:1X01</title>
+    </g>
+  </g>
+  <g id="g107282" transform="translate(0,-35.199997)">
+    <title id="title107284">element:JP5</title>
+    <g id="g107286">
+      <title id="title107288">package:MICRO-FIDUCIAL</title>
+    </g>
+  </g>
+  <g id="g107290" transform="translate(0,-35.199997)">
+    <title id="title107292">element:JP6</title>
+    <g id="g107294">
+      <title id="title107296">package:1X12</title>
+    </g>
+  </g>
+  <g id="g107298" transform="translate(0,-35.199997)">
+    <title id="title107300">element:JP7</title>
+    <g id="g107302">
+      <title id="title107304">package:1X12</title>
+    </g>
+  </g>
+  <g id="g107306" transform="translate(0,-35.199997)">
+    <title id="title107308">element:JP8</title>
+    <g id="g107310">
+      <title id="title107312">package:MICRO-FIDUCIAL</title>
+    </g>
+  </g>
+  <g id="g107314" transform="translate(0,-35.199997)">
+    <title id="title107316">element:R1</title>
+    <g id="g107318">
+      <title id="title107320">package:0402-RES</title>
+    </g>
+  </g>
+  <g id="g107322" transform="translate(0,-35.199997)">
+    <title id="title107324">element:R3</title>
+    <g id="g107326">
+      <title id="title107328">package:0402-RES</title>
+    </g>
+  </g>
+  <g id="g107344" transform="translate(0,-35.199997)">
+    <title id="title107346">element:U$3</title>
+    <g id="g107348">
+      <title id="title107350">package:OSHW-LOGO-S</title>
+    </g>
+  </g>
+  <g id="g107352" transform="translate(0,-35.199997)">
+    <title id="title107354">element:U$11</title>
+    <g id="g107356">
+      <title id="title107358">package:SFE-NEW-WEBLOGO</title>
+    </g>
+  </g>
+  <circle style="fill:none;stroke:#9a916c;stroke-width:1.22399998" cy="-54.800003" cx="-7.1999993" id="connector14pin" r="2.052" transform="scale(-1,-1)" />
+  <circle style="fill:none;stroke:#9a916c;stroke-width:1.22399998" cy="-54.800003" cx="-14.4" id="connector15pin" r="2.052" transform="scale(-1,-1)" />
+  <circle style="fill:none;stroke:#9a916c;stroke-width:1.22399998" cy="-54.800003" cx="-21.6" id="connector16pin" r="2.052" transform="scale(-1,-1)" />
+  <circle style="fill:none;stroke:#9a916c;stroke-width:1.22399998" cy="-54.800003" cx="-28.799999" id="connector17pin" r="2.052" transform="scale(-1,-1)" />
+  <circle style="fill:none;stroke:#9a916c;stroke-width:1.22399998" cy="-54.800003" cx="-36" id="connector18pin" r="2.052" transform="scale(-1,-1)" />
+  <circle style="fill:none;stroke:#9a916c;stroke-width:1.22399998" cy="-54.800003" cx="-43.200001" id="connector19pin" r="2.052" transform="scale(-1,-1)" />
+  <text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00000048px;line-height:100%;font-family:'Droid Arabic Kufi';-inkscape-font-specification:'Droid Arabic Kufi, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="3.9150867" y="50.630737" id="text11121" sodipodi:linespacing="100%"><tspan sodipodi:role="line" id="tspan11123" x="3.9150867" y="50.630737" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00000048px;line-height:100%;font-family:'Droid Arabic Kufi';-inkscape-font-specification:'Droid Arabic Kufi, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">RXD</tspan></text>
+  <text sodipodi:linespacing="100%" id="text11125" y="50.630737" x="11.392675" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00000048px;line-height:100%;font-family:'Droid Arabic Kufi';-inkscape-font-specification:'Droid Arabic Kufi, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00000048px;line-height:100%;font-family:'Droid Arabic Kufi';-inkscape-font-specification:'Droid Arabic Kufi, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff" y="50.630737" x="11.392675" id="tspan11127" sodipodi:role="line">TXD</tspan></text>
+  <text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00000048px;line-height:100%;font-family:'Droid Arabic Kufi';-inkscape-font-specification:'Droid Arabic Kufi, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="18.537012" y="50.630737" id="text11129" sodipodi:linespacing="100%"><tspan sodipodi:role="line" id="tspan11131" x="18.537012" y="50.630737" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00000048px;line-height:100%;font-family:'Droid Arabic Kufi';-inkscape-font-specification:'Droid Arabic Kufi, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">RST</tspan></text>
+  <text sodipodi:linespacing="100%" id="text11133" y="50.630737" x="26.56465" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00000048px;line-height:100%;font-family:'Droid Arabic Kufi';-inkscape-font-specification:'Droid Arabic Kufi, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00000048px;line-height:100%;font-family:'Droid Arabic Kufi';-inkscape-font-specification:'Droid Arabic Kufi, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff" y="50.630737" x="26.56465" id="tspan11135" sodipodi:role="line">NC</tspan></text>
+  <text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00000048px;line-height:100%;font-family:'Droid Arabic Kufi';-inkscape-font-specification:'Droid Arabic Kufi, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" x="32.564213" y="50.630737" id="text11137" sodipodi:linespacing="100%"><tspan sodipodi:role="line" id="tspan11139" x="32.564213" y="50.630737" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00000048px;line-height:100%;font-family:'Droid Arabic Kufi';-inkscape-font-specification:'Droid Arabic Kufi, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">GND</tspan></text>
+  <text sodipodi:linespacing="100%" id="text11141" y="50.630737" x="40.148003" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00000048px;line-height:100%;font-family:'Droid Arabic Kufi';-inkscape-font-specification:'Droid Arabic Kufi, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00000048px;line-height:100%;font-family:'Droid Arabic Kufi';-inkscape-font-specification:'Droid Arabic Kufi, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff" y="50.630737" x="40.148003" id="tspan11143" sodipodi:role="line">VCC</tspan><tspan style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.00000048px;line-height:100%;font-family:'Droid Arabic Kufi';-inkscape-font-specification:'Droid Arabic Kufi, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff" y="53.630737" x="40.148003" sodipodi:role="line" id="tspan11145" /></text>
+  <rect style="opacity:1;fill:#e0e0e0;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:2.40094519;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="rect11170" width="38.74332" height="38.74332" x="5.8283401" y="4.7896647" />
+  <text sodipodi:linespacing="100%" id="text11173" y="12.692043" x="10.2712" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.57208204px;line-height:100%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve"><tspan style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.57208204px;line-height:100%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" y="12.692043" x="10.2712" id="tspan11175" sodipodi:role="line">SKM53</tspan><tspan style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.57208204px;line-height:100%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1" y="17.264126" x="10.2712" sodipodi:role="line" id="tspan11177">MTK3339</tspan></text>
+  <circle style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:1.04080009;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" id="path11181" cx="25.200001" cy="24.161324" r="2.6555178" />
+</svg>
